@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Kirti Sahu</h1>
 <h3 align="center">Web Development Enthusiast</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fprogramming-gif-25868426&psig=AOvVaw14Atzjk9JrD6XpzPI3ciYs&ust=1690707908114000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCPhvTHs4ADFQAAAAAdAAAAABAE">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirtisahu4255&label=Profile%20views&color=0e75b6&style=flat" alt="kirtisahu4255" /> </p>
 
