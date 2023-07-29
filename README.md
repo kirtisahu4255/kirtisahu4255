@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/kirtisa41659351" target="blank"><img src="https://img.shields.io/twitter/follow/kirtisa41659351?logo=twitter&style=for-the-badge" alt="kirtisa41659351" /></a> </p>
 
-- 🌱 I’m currently learning **React.js, Data Structure**
+- I’m currently learning **React.js, Data Structure**
 
-- 📫 How to reach me **sahukirti4255@gmail.com**
+- How to reach me **sahukirti4255@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1w6vmVgF6CRuxOEIJhz8ZhKvzoVO54Uio?usp=sharing](https://drive.google.com/drive/folders/1w6vmVgF6CRuxOEIJhz8ZhKvzoVO54Uio?usp=sharing)
+- Know about my experiences [https://drive.google.com/drive/folders/1w6vmVgF6CRuxOEIJhz8ZhKvzoVO54Uio?usp=sharing](https://drive.google.com/drive/folders/1w6vmVgF6CRuxOEIJhz8ZhKvzoVO54Uio?usp=sharing)
 
-- ⚡ Fun fact **"I can build circuits and code programs simultaneously, merging the world of electronics and computer science effortlessly!" 💡💻🔌**
+-  Fun fact **"I can build circuits and code programs simultaneously, merging the world of electronics and computer science effortlessly!"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
