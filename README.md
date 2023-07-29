@@ -1,7 +1,7 @@
 ![logo](https://github.com/kirtisahu4255/kirtisahu4255/blob/main/Full-Stack%20Web%20Developer%20(1).png)
  <h1 align="center">Hi 👋, I'm Kirti Sahu</h1>
 <h3 align="center">Web Development Enthusiast</h3>
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/QssGEmpkyEOhBCb7e1/200w.webp?cid=ecf05e473sbeo8vw1gj8ky25oggti7t8ykhgnio1law9rrnk&ep=v1_stickers_search&rid=200w.webp&ct=s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirtisahu4255&label=Profile%20views&color=0e75b6&style=flat" alt="kirtisahu4255" /> </p>
 
