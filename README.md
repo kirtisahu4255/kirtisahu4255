@@ -11,7 +11,8 @@
 
 - How to reach me **sahukirti4255@gmail.com**
 
-- Know about my experiences [https://drive.google.com/file/d/1zLXpDIGWQv-rE4XTLSUnxK8alCqMQzOF/view?usp=drive_link]([https://drive.google.com/drive/folders/1w6vmVgF6CRuxOEIJhz8ZhKvzoVO54Uio?usp=sharing](https://drive.google.com/file/d/1zLXpDIGWQv-rE4XTLSUnxK8alCqMQzOF/view?usp=drive_link))
+- Know about my experiences (https://drive.google.com/file/d/1zLXpDIGWQv-rE4XTLSUnxK8alCqMQzOF/view?usp=drive_link)
+  [https://drive.google.com/file/d/1zLXpDIGWQv-rE4XTLSUnxK8alCqMQzOF/view?usp=drive_link]
 
 -  Fun fact **"I can build circuits and code programs simultaneously, merging the world of electronics and computer science effortlessly!"**
 
